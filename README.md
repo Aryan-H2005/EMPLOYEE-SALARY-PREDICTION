@@ -158,3 +158,6 @@ Analyze influencing factors
 ## Run locally:
 
 streamlit run app.py
+
+## Live Demo
+https://aryan-employee-salary-prediction-ecf6n2jvvxh9zrrk7ktqmc.streamlit.app/
